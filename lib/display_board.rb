@@ -5,7 +5,7 @@ def display_board
   print cellRow
   puts linesRow
   print cellRow
-  print linesRow
+  puts linesRow
   print cellRow
 end
 
