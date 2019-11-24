@@ -2,11 +2,11 @@
 def display_board
   cellRow="   ","|","   ","|","   "
   linesRow="-----------"
-  print cellRow
+  puts cellRow
   puts linesRow
-  print cellRow
+  puts cellRow
   puts linesRow
-  print cellRow
+  puts cellRow
 end
 
 display_board
