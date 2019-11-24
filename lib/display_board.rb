@@ -3,11 +3,10 @@ def display_board
   cellRow="   ","|","   ","|","   "
   linesRow="-----------"
   print cellRow
-  print linesRow
+  puts linesRow
   print cellRow
   print linesRow
   print cellRow
 end
 
 display_board
-  
